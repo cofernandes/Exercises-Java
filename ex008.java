@@ -14,9 +14,11 @@ public class ex008 {
        Scanner scan = new Scanner (System.in);
        
        System.out.println("How much do you earn per hour: ");
+       float a = scan.nextFloat();
+       
        System.out.println("How many hours do you work: ");
        
-       float a = scan.nextFloat();
+
        float b = scan.nextFloat();
        float c = (a * b);
        
