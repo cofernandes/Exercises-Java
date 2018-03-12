@@ -1,6 +1,6 @@
 
 package Exercises;
-//List 2 exercise 18
+//List 2 exercise 19
 import java.util.Scanner;
 public class ex029 {
 
@@ -14,7 +14,7 @@ public class ex029 {
        if (number % 2 == 0){
            System.out.println("This number is EVEN");
        }else{
-           System.out.println("This number is ODD");
+           System.out.println("This number is ODD");    
        } 
            
     }
