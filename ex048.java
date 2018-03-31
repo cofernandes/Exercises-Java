@@ -12,7 +12,6 @@ public class ex048 {
     
     int people;
     int avarage;
-    int sum =0;
     int age;
     
     System.out.println("Enter with a number of people");
